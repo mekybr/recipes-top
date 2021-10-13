@@ -1,15 +1,15 @@
 
 
-*{
+* {
     background-color: burlywood;
 }
 
 
-.title-bar{
+.title-bar {
     color: cadetblue;
 }
 
-#recipes-link{
+#recipes-link {
     color: coral;
     font-family: 'Courier New', Courier, monospace;
 }
