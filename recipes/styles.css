@@ -1,3 +1,15 @@
+
+
+*{
+    background-color: burlywood;
+}
+
+
 .title-bar{
     color: cadetblue;
+}
+
+#recipes-link{
+    color: coral;
+    font-family: comic-sans-ms;
 }
